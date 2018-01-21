@@ -1,5 +1,5 @@
 # Basic Task Manager
-This exercise evaluates a basic understanding of PHP, jQuery, HTML &amp; CSS. It makes use of the bootstrap UI framework along with the jquery javascript library. All server actions are done in PHP.
+This demo evaluates a basic understanding of PHP, jQuery, HTML &amp; CSS. It makes use of the bootstrap UI framework along with the jquery javascript library. All server actions are done in PHP.
 
 ### What it does
 A basic PHP web app that allows a user to create and modify tasks in a task list type of app. Tasks will be stored in a file as a json encoded string (for the purposes of this demo).
